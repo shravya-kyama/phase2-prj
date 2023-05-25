@@ -1,0 +1,43 @@
+.ap{
+    
+}
+
+.add-Patients-vital-info{
+    text-align: center;
+}
+.Patient-form{
+    display: block;
+   margin-left: 50px;
+    padding: 600px;
+    padding-top: 5px;
+    padding-bottom: 0%;
+    margin-bottom: 0%;
+    
+    
+}
+.Patient-form input{
+    width: 290px;
+    height: 24px;
+    border-radius: 5px;
+    
+    border:solid lightgray 1px;
+}
+.Patient-form select{
+    width: 290px;
+    border-radius: 5px;
+    height: 24px;
+    border-color: lightgrey;
+
+}
+
+.button {
+    background-color: limegreen;
+    border-color: limegreen;
+}
+.add-Patients-vital-info p{
+    
+    color: gray;
+}
+.add-Patients-vital-info h1{
+    height: 16px;
+}
